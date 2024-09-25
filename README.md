@@ -1,4 +1,4 @@
-# a crm application to manage the services offered by an institution
+# A crm application to manage the services offered by an institution
 <h1 align="center">Hi 👋, I'm Dileep</h1>
 <h3 align="center">I am a student from GNITC and A passionate frontend developer from India</h3>
 
